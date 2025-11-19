@@ -1,5 +1,18 @@
 {
-  "latestVersion": "1.0.0",
-  "downloadUrl": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/CrimsonBuilder.Gui.exe",
-  "releaseNotes": "Initial release."
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/launcher.zip"
+  },
+  "framework": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/framework.zip"
+  },
+  "extras": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/extras.zip"
+  },
+  "modsJson": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/CrimsonMods.json"
+  }
 }
