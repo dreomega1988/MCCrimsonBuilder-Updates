@@ -1,18 +1,9 @@
 {
-  "launcher": {
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/launcher.zip"
+  "Launcher": {
+    "Version": "2.0.0",
+    "Url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/launcher.zip"
   },
-  "framework": {
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/framework.zip"
-  },
-  "extras": {
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/extras.zip"
-  },
-  "modsJson": {
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/CrimsonMods.json"
-  }
+  "Framework": null,
+  "Extras": null,
+  "ModsJson": null
 }
