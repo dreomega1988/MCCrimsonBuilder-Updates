@@ -2,21 +2,21 @@
   "Launcher": {
     "Version": "2.0.0",
     "Download": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/launcher.zip",
-    "Sha256": "PUT_HASH_HERE"
+    "Sha256": "4E762D2ED56ADEB3867B9971E4162FAF9347FA8109CDCB01A78CA5E323EDB05A"
   },
   "Framework": {
     "Version": "1.0.0",
     "Download": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/framework.zip",
-    "Sha256": "PUT_HASH_HERE"
+    "Sha256": "F142740CEC48225B5A87ED6518866E033929B5268A34E5EF3D29E13CCC440282"
   },
   "Extras": {
     "Version": "1.0.0",
     "Download": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/extras.zip",
-    "Sha256": "PUT_HASH_HERE"
+    "Sha256": "EFD227397999B47A92E3E9916AAE7BB04D91C36040FC9EEAA2B5B558E18BCD0D"
   },
   "ModsJson": {
     "Version": "1.0.0",
     "Download": "https://raw.githubusercontent.com/dreomega1988/MCCrimsonBuilder-Updates/main/CrimsonMods.json",
-    "Sha256": "PUT_HASH_HERE"
+    "Sha256": "320399416F4A5ED8D9B5114FF4D89EC23AF18167AA681F36F1FF05CF51609EE7"
   }
 }
