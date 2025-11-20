@@ -1,0 +1,4 @@
+[
+  { "Name": "Example Mod 1", "Side": "client" },
+  { "Name": "Example Mod 2", "Side": "both" }
+]
